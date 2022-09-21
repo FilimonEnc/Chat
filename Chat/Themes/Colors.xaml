@@ -1,0 +1,20 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    
+    
+    
+    <!--Base Colors-->
+
+    <Color x:Key="Black">#000000</Color>
+    <Color x:Key="White">#fff</Color>
+    <Color x:Key="Red">#f00</Color>
+    <Color x:Key="Blue">#20f</Color>
+    <Color x:Key="Green">#04ff00</Color>
+    <Color x:Key="Yelow">#fbff00</Color>
+    <Color x:Key="Orange">#ff7b00</Color>
+    <Color x:Key="Purple">#fb00ff</Color>
+    
+    
+</ResourceDictionary>
+    
